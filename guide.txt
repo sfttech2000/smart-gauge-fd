@@ -1,4 +1,4 @@
-﻿DRAKO GAUGE  v0.5.2-fd  -  คู่มือการใช้งาน
+﻿DRAKO GAUGE  v0.5.3-fd  -  คู่มือการใช้งาน
 by tee & claude
 
 สิ่งที่ต้องมี

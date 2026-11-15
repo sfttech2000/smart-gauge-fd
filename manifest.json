@@ -1,6 +1,6 @@
 {
   "name": "SMART GAUGE FD",
-  "version": "0.5.2-fd",
+  "version": "0.5.3-fd",
   "builds": [
     {
       "chipFamily": "ESP32",
